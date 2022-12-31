@@ -5,7 +5,7 @@ const colors = require('colors');
 
 console.log("Hello Everyone..........!".rainbow);
 //--------------------------------Basic Server---------------------------------
-// method 1 :- Dhulo Dhulesh
+// method 1 :- Dhulo Dhulesh ho
 // http.createServer((req,res) => {
 //     res.write("Hello Students......!");c
 //     res.end();
