@@ -3,9 +3,9 @@ const http = require('http');
 // colors package :-
 const colors = require('colors');
 
-console.log("Hello Everyone..........!".rainbow);
+console.log("Hello Everyone Students..........!".rainbow);
 //--------------------------------Basic Server---------------------------------
-// method 1 :- Dhulo dHULYO
+// method 1 :-
 // http.createServer((req,res) => {
 //     res.write("Hello Students......!");c
 //     res.end();
